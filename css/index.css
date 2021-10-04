@@ -118,7 +118,7 @@ img{
         width: 100%;
         background-color: rgb(224, 224, 226);
         font-size: 1.3em;
-        height: 15vh;
+        height: 19vh;
         clear: both;
         color: black;
     }
@@ -149,7 +149,7 @@ img{
     }
     
     #aboutMe{
-        margin: 17vh;
+        margin: 21vh;
         margin-left: 2vw;
         margin-right: 2vw;
     
