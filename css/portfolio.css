@@ -130,6 +130,10 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.description > a > .images:hover{
+    border: 2px red solid;
+}
+
 
 @media only screen and (max-width: 600px){
     #header{
