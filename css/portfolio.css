@@ -180,17 +180,18 @@ h1 {
         color: goldenrod;
     }
 
-    #body{
-        margin: 17vh;
-        margin-left: 2vw;
-        margin-right: 2vw;
-    
-    }
-
     #grid{
         display: grid;
         grid-template-areas: "project1"
                             "project2"
                             "project3";
+    }
+
+    .projects{
+        background-color: white;
+        margin-bottom: 1.1em;
+        color: black;
+        border: 4px goldenrod solid;
+        height: 85vh;
     }
 }
