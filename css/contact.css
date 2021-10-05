@@ -54,6 +54,14 @@ img{
     padding: 1.5em;
 }
 
+#active{
+    color: blue;
+}
+
+#active:hover{
+    color: goldenrod;
+}
+
 @media only screen and (max-width: 600px){
     #header{
         position: fixed;
