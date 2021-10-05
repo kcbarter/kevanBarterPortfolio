@@ -113,7 +113,7 @@ h1 {
     height: 180px;
     width: 280px;
     border: 1px black solid;
-    transition: 2s;
+    transition: .4s;
 }
 
 .description > p{
