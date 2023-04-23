@@ -61,16 +61,8 @@ h1 {
     grid-area: project1;
 }
 
-#project2{
-    grid-area: project2;
-}
-
 #project3{
     grid-area: project3;
-}
-
-#project4 {
-    grid-area: project4;
 }
 
 #project5 {
