@@ -69,6 +69,14 @@ h1 {
     grid-area: project3;
 }
 
+#project4 {
+    grid-area: project4;
+}
+
+#project5 {
+    grid-area: project5;
+}
+
 .projects{
     background-color: white;
     margin-right: 1.1em;
